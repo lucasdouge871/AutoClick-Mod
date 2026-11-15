@@ -1,0 +1,27 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081"
+	},
+	"id": "lucasdouge.auto-click-mod",
+	"name": "Auto Click Mod",
+	"version": "v1.0.0",
+	"developer": "Lucasdouge",
+	"description": "Auto Macro Bot: auto-plays a path through your level, records it, and lets you replay it with one button.",
+	"settings": {
+		"safe-mode": {
+			"type": "bool",
+			"name": "Safe Mode",
+			"description": "Runs that use the bot (Auto Path or Replay) never save progress or completions. Leave this on if you care about legit stats and leaderboards.",
+			"default": true
+		},
+		"show-hud": {
+			"type": "bool",
+			"name": "Show HUD",
+			"description": "Shows a small \"Auto Macro Bot\" status label in the top-left corner while the bot is active.",
+			"default": true
+		}
+	}
+}
