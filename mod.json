@@ -8,7 +8,7 @@
 	"id": "lucasdouge.auto-click-mod",
 	"name": "Auto Click Mod",
 	"version": "v1.0.0",
-	"developer": "Lucasdouge",
+	"developer": "lucasdouge",
 	"description": "Auto Macro Bot: auto-plays a path through your level, records it, and lets you replay it with one button.",
 	"settings": {
 		"safe-mode": {
